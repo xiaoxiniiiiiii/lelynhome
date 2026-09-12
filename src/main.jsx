@@ -6,7 +6,7 @@ import './styles.css';
 const company = {
   name: '澧林(沙田)有限公司',
   email: 'lilinshatian@outlook.com',
-  address: '14 Science Museum Road, Yau Tsim Mong District, Hong Kong Special Administrative Region',
+  address: 'SHOP NO 248-250,2/F. WO CHE PLAZA,SHA TIN,HONGKONG',
 };
 
 const categories = [
